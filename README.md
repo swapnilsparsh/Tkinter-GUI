@@ -1,6 +1,9 @@
 # About
 This repo is used to understand, how to make a Simple GUI using Tkinter in Python.
 
+# Technology
+
+
 ## Connect with me
 <div align="center">
 <a href="https://github.com/swapnilsparsh" target="_blank">
